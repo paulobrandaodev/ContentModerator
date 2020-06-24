@@ -1,2 +1,2 @@
 # ContentModerator
-Projeto desenvolvido para testar a detecção de anomalias utilizando o Microsoft Azure Content Moderator
+Projeto desenvolvido para testar a moderação de conteúdo utilizando o Microsoft Azure Content Moderator
